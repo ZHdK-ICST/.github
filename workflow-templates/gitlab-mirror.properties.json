@@ -1,0 +1,6 @@
+{
+  "name": "Mirror to GitLab",
+  "description": "Mirrors all branches and tags to GitLab. Requires the repository secret GITLAB_TOKEN.",
+  "iconName": "octicon repo-push",
+  "categories": ["Continuous integration", "Deployment"]
+}
